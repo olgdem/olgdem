@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/-Java%20Script-8A2BE2)
 ![](https://img.shields.io/badge/-Github-8A2BE2)
 ![](https://img.shields.io/badge/-Java%20Script-8A2BE2)
-![](https://img.shields.io/badge/-Responsive%20Design-8A2BE2)
+![](https://img.shields.io/badge/-Adaptive%20Design-8A2BE2)
 ![](https://img.shields.io/badge/-REST%20Api-8A2BE2)
 ![](https://img.shields.io/badge/-Testing-8A2BE2)
 ![](https://img.shields.io/badge/-Figma-8A2BE2)
