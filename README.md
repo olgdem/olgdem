@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/-Testing-8A2BE2)
 ![](https://img.shields.io/badge/-Figma-8A2BE2)
 
-- :computer: I like to write code and Pixel Perfect
+- :computer: I like to write code
 - :dvd: I like to learn new technology stacks and another things that help me to make my work better
 - :muscle: I mastered all stacks and tools by myself
 - :key: I love to solve interesting tasks in my profession
