@@ -23,7 +23,11 @@
 - ⛅ :partly_sunny: I’m currently working on weather widget
 
   ## Connect with me:
-<img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+[<img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>](https://www.linkedin.com/in/olga-demets-ab894323b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bccv3zHe2T0abAuwx0vbqOQ%3D%3D)
+
+### EMAIL:  demolg68@ukr.net
+
+
   
   
 
