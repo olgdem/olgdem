@@ -14,6 +14,9 @@
 ![](https://img.shields.io/badge/-REST%20Api-8A2BE2)
 ![](https://img.shields.io/badge/-Testing-8A2BE2)
 ![](https://img.shields.io/badge/-Figma-8A2BE2)
+![](https://img.shields.io/badge/-SASS-8A2BE2)
+![](https://img.shields.io/badge/-Postman-8A2BE2)
+![](https://img.shields.io/badge/-Selenium%20IDE-8A2BE2)
 
 - :computer: I like to write code
 - :dvd: I like to learn new technology stacks and another things that help me to make my work better
